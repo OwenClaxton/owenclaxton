@@ -13,8 +13,8 @@ I'm not just an engineer; I'm an entrepreneur at heart, always seeking innovativ
 
 # What have I been working on recently?
 <p align="center">
-  <img src="https://raw.githubusercontent.com/owenclaxton-QUT/owenclaxton/main/outdoor_mapping_example.gif" alt="Outdoor Mapping GIF" width=350 />
-  <img src="https://raw.githubusercontent.com/owenclaxton-QUT/owenclaxton/main/VPR_SAD_testing.gif" alt="Visual Place Recognition HMI GIF" width=350  />
-  <img src="https://raw.githubusercontent.com/owenclaxton-QUT/owenclaxton/main/scanmatch_example.gif" alt="Scan-matching with a 3D LiDAR (VLP-16) GIF" width=350 />
-  <img src="https://raw.githubusercontent.com/owenclaxton-QUT/owenclaxton/main/Full_Simulation_Environment.gif" alt="Full simulation environment GIF" width=350 />
+  <img src="https://raw.githubusercontent.com/owenclaxton/owenclaxton/main/outdoor_mapping_example.gif" alt="Outdoor Mapping GIF" width=350 />
+  <img src="https://raw.githubusercontent.com/owenclaxton/owenclaxton/main/VPR_SAD_testing.gif" alt="Visual Place Recognition HMI GIF" width=350  />
+  <img src="https://raw.githubusercontent.com/owenclaxton/owenclaxton/main/scanmatch_example.gif" alt="Scan-matching with a 3D LiDAR (VLP-16) GIF" width=350 />
+  <img src="https://raw.githubusercontent.com/owenclaxton/owenclaxton/main/Full_Simulation_Environment.gif" alt="Full simulation environment GIF" width=350 />
 </p>
