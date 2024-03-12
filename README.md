@@ -11,10 +11,14 @@ I'm not just an engineer; I'm an entrepreneur at heart, always seeking innovativ
 # My professional GitHubs:
 * [owenclaxton-QUT](https://github.com/owenclaxton-QUT)
 
-# What have I been working on recently?
+# Some of my projects
 <p align="center">
-  <img src="https://raw.githubusercontent.com/owenclaxton/owenclaxton/main/outdoor_mapping_example.gif" alt="Outdoor Mapping GIF" width=350 />
-  <img src="https://raw.githubusercontent.com/owenclaxton/owenclaxton/main/VPR_SAD_testing.gif" alt="Visual Place Recognition HMI GIF" width=350  />
-  <img src="https://raw.githubusercontent.com/owenclaxton/owenclaxton/main/scanmatch_example.gif" alt="Scan-matching with a 3D LiDAR (VLP-16) GIF" width=350 />
-  <img src="https://raw.githubusercontent.com/owenclaxton/owenclaxton/main/Full_Simulation_Environment.gif" alt="Full simulation environment GIF" width=350 />
+  <img src="https://raw.githubusercontent.com/owenclaxton/owenclaxton/main/outdoor_mapping_example.gif" alt="Outdoor Mapping GIF" width=350 height=200/>
+  <img src="https://raw.githubusercontent.com/owenclaxton/owenclaxton/main/VPR_SAD_testing.gif" alt="Visual Place Recognition HMI GIF" width=350  height=200/>
+  <img src="https://raw.githubusercontent.com/owenclaxton/owenclaxton/main/scanmatch_example.gif" alt="Scan-matching with a 3D LiDAR (VLP-16) GIF" width=350 height=200/>
+  <img src="https://raw.githubusercontent.com/owenclaxton/owenclaxton/main/Full_Simulation_Environment.gif" alt="Full simulation environment GIF" width=350 height=200/>
+  <img src="https://raw.githubusercontent.com/owenclaxton/owenclaxton/main/pcb_animation_smll.gif" alt="Modelled honours thesis PCB fly-by" width=350 height=200/>
+  <img src="https://raw.githubusercontent.com/owenclaxton/owenclaxton/main/real_thesis_front.jpg" alt="Physical honours thesis PCB front view" width=350 height=200/>
+  <img src="https://raw.githubusercontent.com/owenclaxton/owenclaxton/main/real_thesis_back.jpg" alt="Physical honours thesis PCB back view" width=350 height=200/>
+  <img src="https://raw.githubusercontent.com/owenclaxton/owenclaxton/main/honours_thesis_example_schematic.png" alt="Honours thesis example schematic" width=350 height=200/>
 </p>
