@@ -17,11 +17,16 @@ I'm not just an engineer; I'm an entrepreneur at heart, always seeking innovativ
   <img src="https://raw.githubusercontent.com/owenclaxton/owenclaxton/main/pcb_animation_smll.gif" alt="Modelled honours thesis PCB fly-by" width=350 height=200/>
   <img src="https://raw.githubusercontent.com/owenclaxton/owenclaxton/main/real_thesis_front.jpg" alt="Physical honours thesis PCB front view" width=350 height=200/>
   <img src="https://raw.githubusercontent.com/owenclaxton/owenclaxton/main/real_thesis_back.jpg" alt="Physical honours thesis PCB back view" width=350 height=200/>
+  <img src="https://raw.githubusercontent.com/owenclaxton/owenclaxton/main/assembling_0603_components.jpg" alt="Honours thesis placing 0603 components" width=350 height=200/>
+  <img src="https://raw.githubusercontent.com/owenclaxton/owenclaxton/main/outdoors_data_collection.jpg" alt="Collecting data outdoors" width=350 height=200/>
   <img src="https://raw.githubusercontent.com/owenclaxton/owenclaxton/main/honours_thesis_example_schematic.png" alt="Honours thesis example schematic" width=350 height=200/>
+  <img src="https://raw.githubusercontent.com/owenclaxton/owenclaxton/main/RAL_paper_1_main_diagram.png" alt="(Publication Pending) Main Diagram of recent submission to IEEE Robotics and Automation - Letters" width=350 height=200/>
+  <img src="https://raw.githubusercontent.com/owenclaxton/owenclaxton/main/reconstructed_robot.jpg" alt="System I upgraded with 3D printed and laser-cut parts" width=350 height=200/>
+  <img src="https://raw.githubusercontent.com/owenclaxton/owenclaxton/main/untuned_f1tenth_autonomous_navigation.gif" alt="Autonomously-navigating (tuning not finished)'F1-Tenth' vehicle" width=350 height=200/>
 </p>
 
 # But wait, there's more!
 ### Does this GitHub look light on commits, repositories, and actions?
-You're absolutely right - That's because this GitHub is my personal GitHub, separated from my professional work.
+You're absolutely right - that's because this is only my personal GitHub, which I separate from my professional work.
 ### Check out my professional Githubs: 
 * [owenclaxton-QUT](https://github.com/owenclaxton-QUT)
