@@ -10,19 +10,20 @@ I'm not just an engineer; I'm an entrepreneur at heart, always seeking innovativ
 
 # Some of my projects
 <p align="center">
-  <img src="https://raw.githubusercontent.com/owenclaxton/owenclaxton/main/outdoor_mapping_example.gif" alt="Outdoor Mapping GIF" width=350 height=200/>
-  <img src="https://raw.githubusercontent.com/owenclaxton/owenclaxton/main/VPR_SAD_testing.gif" alt="Visual Place Recognition HMI GIF" width=350  height=200/>
-  <img src="https://raw.githubusercontent.com/owenclaxton/owenclaxton/main/scanmatch_example.gif" alt="Scan-matching with a 3D LiDAR (VLP-16) GIF" width=350 height=200/>
-  <img src="https://raw.githubusercontent.com/owenclaxton/owenclaxton/main/Full_Simulation_Environment.gif" alt="Full simulation environment GIF" width=350 height=200/>
-  <img src="https://raw.githubusercontent.com/owenclaxton/owenclaxton/main/pcb_animation_smll.gif" alt="Modelled honours thesis PCB fly-by" width=350 height=200/>
-  <img src="https://raw.githubusercontent.com/owenclaxton/owenclaxton/main/real_thesis_front.jpg" alt="Physical honours thesis PCB front view" width=350 height=200/>
-  <img src="https://raw.githubusercontent.com/owenclaxton/owenclaxton/main/real_thesis_back.jpg" alt="Physical honours thesis PCB back view" width=350 height=200/>
-  <img src="https://raw.githubusercontent.com/owenclaxton/owenclaxton/main/assembling_0603_components.jpg" alt="Honours thesis placing 0603 components" width=350 height=200/>
-  <img src="https://raw.githubusercontent.com/owenclaxton/owenclaxton/main/outdoors_data_collection.jpg" alt="Collecting data outdoors" width=350 height=200/>
-  <img src="https://raw.githubusercontent.com/owenclaxton/owenclaxton/main/honours_thesis_example_schematic.png" alt="Honours thesis example schematic" width=350 height=200/>
-  <img src="https://raw.githubusercontent.com/owenclaxton/owenclaxton/main/RAL_paper_1_main_diagram.png" alt="(Publication Pending) Main Diagram of recent submission to IEEE Robotics and Automation - Letters" width=350 height=200/>
-  <img src="https://raw.githubusercontent.com/owenclaxton/owenclaxton/main/reconstructed_robot.jpg" alt="System I upgraded with 3D printed and laser-cut parts" width=350 height=200/>
-  <img src="https://raw.githubusercontent.com/owenclaxton/owenclaxton/main/untuned_f1tenth_autonomous_navigation.gif" alt="Autonomously-navigating (tuning not finished)'F1-Tenth' vehicle" width=350 height=200/>
+  <img src="https://raw.githubusercontent.com/owenclaxton/owenclaxton/main/media/outdoor_mapping_example.gif" alt="Outdoor Mapping GIF" width=350 height=200/>
+  <img src="https://raw.githubusercontent.com/owenclaxton/owenclaxton/main/media/VPR_SAD_testing.gif" alt="Visual Place Recognition HMI GIF" width=350  height=200/>
+  <img src="https://raw.githubusercontent.com/owenclaxton/owenclaxton/main/media/scanmatch_example.gif" alt="Scan-matching with a 3D LiDAR (VLP-16) GIF" width=350 height=200/>
+  <img src="https://raw.githubusercontent.com/owenclaxton/owenclaxton/main/media/Full_Simulation_Environment.gif" alt="Full simulation environment GIF" width=350 height=200/>
+  <img src="https://raw.githubusercontent.com/owenclaxton/owenclaxton/main/media/pcb_animation_smll.gif" alt="Modelled honours thesis PCB fly-by" width=350 height=200/>
+  <img src="https://raw.githubusercontent.com/owenclaxton/owenclaxton/main/media/real_thesis_front.jpg" alt="Physical honours thesis PCB front view" width=350 height=200/>
+  <img src="https://raw.githubusercontent.com/owenclaxton/owenclaxton/main/media/real_thesis_back.jpg" alt="Physical honours thesis PCB back view" width=350 height=200/>
+  <img src="https://raw.githubusercontent.com/owenclaxton/owenclaxton/main/media/assembling_0603_components.jpg" alt="Honours thesis placing 0603 components" width=350 height=200/>
+  <img src="https://raw.githubusercontent.com/owenclaxton/owenclaxton/main/media/outdoors_data_collection.jpg" alt="Collecting data outdoors" width=350 height=200/>
+  <img src="https://raw.githubusercontent.com/owenclaxton/owenclaxton/main/media/6U_RobotArm_USYD.jpg" alt="A robot arm for a Cube Satellite" width=350 height=200/>
+  <img src="https://raw.githubusercontent.com/owenclaxton/owenclaxton/main/media/honours_thesis_example_schematic.png" alt="Honours thesis example schematic" width=350 height=200/>
+  <img src="https://raw.githubusercontent.com/owenclaxton/owenclaxton/main/media/RAL_paper_1_main_diagram.png" alt="(Publication Pending) Main Diagram of recent submission to IEEE Robotics and Automation - Letters" width=350 height=200/>
+  <img src="https://raw.githubusercontent.com/owenclaxton/owenclaxton/main/media/reconstructed_robot.jpg" alt="System I upgraded with 3D printed and laser-cut parts" width=350 height=200/>
+  <img src="https://raw.githubusercontent.com/owenclaxton/owenclaxton/main/media/untuned_f1tenth_autonomous_navigation.gif" alt="Autonomously-navigating (tuning not finished)'F1-Tenth' vehicle" width=350 height=200/>
 </p>
 
 # But wait, there's more!
