@@ -8,9 +8,6 @@ I started my studies at the QUT (Queensland University of Technology), who, alon
 
 I'm not just an engineer; I'm an entrepreneur at heart, always seeking innovative solutions and eager to contribute to groundbreaking projects. My commitment to excellence and my strong communication skills, combined with the fearlessness to tackle complex challenges, have shaped my journey. I am goal-oriented and driven by a relentless determination to achieve positive outcomes. With a healthy dose of optimism, a hunger for life-long learning, and a flexible approach to problem-solving, I'm ready to make a significant impact in any position or environment. My academic accolades, practical experience, and technical proficiency are all testament to my dedication to advancing in the fields of science and engineering. Join me on this journey of exploration and innovation as I strive to leave my mark on the realms of robotics, space exploration, quantum physics, or beyond.
 
-# My professional GitHubs:
-* [owenclaxton-QUT](https://github.com/owenclaxton-QUT)
-
 # Some of my projects
 <p align="center">
   <img src="https://raw.githubusercontent.com/owenclaxton/owenclaxton/main/outdoor_mapping_example.gif" alt="Outdoor Mapping GIF" width=350 height=200/>
@@ -22,3 +19,9 @@ I'm not just an engineer; I'm an entrepreneur at heart, always seeking innovativ
   <img src="https://raw.githubusercontent.com/owenclaxton/owenclaxton/main/real_thesis_back.jpg" alt="Physical honours thesis PCB back view" width=350 height=200/>
   <img src="https://raw.githubusercontent.com/owenclaxton/owenclaxton/main/honours_thesis_example_schematic.png" alt="Honours thesis example schematic" width=350 height=200/>
 </p>
+
+# But wait, there's more!
+### Does this GitHub look light on commits, repositories, and actions?
+You're absolutely right - That's because this GitHub is my personal GitHub, separated from my professional work.
+### Check out my professional Githubs: 
+* [owenclaxton-QUT](https://github.com/owenclaxton-QUT)
