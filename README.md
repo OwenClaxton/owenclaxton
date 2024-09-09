@@ -48,3 +48,4 @@ I love connected with new people to discuss science and technology: let's innova
 You're absolutely right - that's because this is only my personal GitHub, which I separate from my professional work.
 ### Check out my professional Githubs: 
 * [owenclaxton-QUT](https://github.com/owenclaxton-QUT)
+* [owenclaxton-SMC](https://github.com/owenclaxton-SMC)
